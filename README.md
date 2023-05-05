@@ -8,15 +8,13 @@ Used existing code from the client website to solves some functionality issues a
 
 [Horiseon Website](https://eveykins86.github.io/Week1-challenge)
 
-## ScreenShot
-
 [![name](assets/images/website-screenshot.png)](https://eveykins86.github.io/Week1-challenge/)
 
 ## Wesite and Github Link
 
-Website: https://eveykins86.github.io/Week1-challenge/
+Website: <https://eveykins86.github.io/Week1-challenge/>
 
-Github: 
+Github: <https://github.com/Eveykins86/Week1-challenge>
 
 ## License
 
